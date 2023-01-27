@@ -1,0 +1,57 @@
+.blackbox {
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  border: thin solid black;
+  text-align: center;
+  padding-bottom: 20px;
+}
+a:link {
+  text-decoration: none;
+}
+.menubars {
+  font-style: italic;
+}
+
+.james {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.cover > img {
+  float: left;
+  width: 400px;
+  height: 350px;
+  object-fit: cover;
+  margin: 0.5%;
+}
+
+.cover {
+  width: 850px;
+  height: 720px;
+  margin: 0 auto;
+}
+
+.Nature-Title {
+  font-size: 30px;
+  position: absolute;
+  top: 195px;
+  left: 165px;
+}
+
+footer > p {
+  text-align: center;
+  color: grey;
+  font-size: 0.8em;
+  margin-bottom: 20px;
+}
+
+.social {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.social-images {
+  width: 20px;
+  height: 20px;
+}
